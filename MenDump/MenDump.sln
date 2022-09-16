@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenDump", "MenDump.csproj", "{A53FA315-0371-416E-860B-9ECB8CACFC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53FA315-0371-416E-860B-9ECB8CACFC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53FA315-0371-416E-860B-9ECB8CACFC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53FA315-0371-416E-860B-9ECB8CACFC79}.Debug|x64.ActiveCfg = Debug|x64
+		{A53FA315-0371-416E-860B-9ECB8CACFC79}.Debug|x64.Build.0 = Debug|x64
+		{A53FA315-0371-416E-860B-9ECB8CACFC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53FA315-0371-416E-860B-9ECB8CACFC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53FA315-0371-416E-860B-9ECB8CACFC79}.Release|x64.ActiveCfg = Release|x64
+		{A53FA315-0371-416E-860B-9ECB8CACFC79}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB6EC50-5BC7-4EC8-A893-30E48565D50E}
+	EndGlobalSection
+EndGlobal
